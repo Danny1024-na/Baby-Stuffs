@@ -1,7 +1,6 @@
 .navitems{
     margin-right: 70px;
     margin-left: 70xp;
-    size: 30px;
 }
 
 .navbar2text{
@@ -9,4 +8,17 @@
     font-weight: 600;
     font-size: 13px;
     line-height: 18px;
+}
+
+.photos{
+    height: 250px;
+}
+
+.email{
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(156, 0, 63);
+    background-color: #e7f1ff;
 }
