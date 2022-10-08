@@ -22,3 +22,37 @@
     color: rgb(156, 0, 63);
     background-color: #e7f1ff;
 }
+
+.wasser{
+    background: url(bubble2.png);
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+}
+
+.body{
+    background-image: url(background-holz-boden.jpg); 
+    Background-position: Center;
+}
+
+
+.links{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+.links:hover{
+    color: rgb(156, 0, 63);
+    text-decoration: underline;
+}
+
+.inputStyle{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f1f6fb;
+    margin-bottom: 10px;
+    border: white;
+}
