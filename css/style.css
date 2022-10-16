@@ -1,6 +1,7 @@
 .navitems{
     margin-right: 70px;
     margin-left: 70xp;
+    color: aliceblue;
 }
 
 .navbar2text{
@@ -31,7 +32,7 @@
 }
 
 .body{
-    background-image: url(background-holz-boden.jpg); 
+    background-image: url('background-holz-boden.jpg'); 
     Background-position: Center;
 }
 
